@@ -9,4 +9,4 @@
 
 ![banner resmi] (https://github.com/siladolek/borsarobotu/blob/main/Borsa%20Robotu%20Tablosu.png)
 
-![banner resmi] (
+![banner resmi] (https://github.com/siladolek/borsarobotu/blob/main/Borsa%20Robotu%20Veriler.png)
